@@ -1,0 +1,8 @@
+README.md
+#Mini Project
+#Portable Digital Storage Oscilloscope 
+-ESP32
+-TFT Display(ILI9341)
+-swich
+-resistor 
+-capacitor
